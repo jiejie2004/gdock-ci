@@ -14,9 +14,10 @@ gdock OpenWrt 自动编译环境使用方法：
 5. ntfs文件系统支持
 6. Frp内网穿透
 7. MWAN3分流助手
-8. N2N v2 VPN
+8. qbittorrent
 9. OpenVPN服务器
 10. transmission的web-ui、ariang、yaaw
+11. luci-app-cifsd
 
 # 鸣谢P3TERX的抛砖引玉。
 大佬的Blog: https://p3terx.com
